@@ -1,0 +1,12 @@
+Client
+### install vite
+npm create vite@latest client --template vamilla
+
+### Than go cd client and type:
+npm install
+
+Server
+npm init -y
+
+### dotenv to secure envorment vairable express backend framwork nodemon to keep web runing
+npm i cors dotenv express nodemon openai
